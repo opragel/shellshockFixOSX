@@ -10,4 +10,4 @@ bash32-056      CVE-2014-6277                           2014-10-02
 bash32-057      CVE-2014-6278                           2014-10-05
 ```
 
-Credit to all the posters in this thread which contains much more info: http://apple.stackexchange.com/questions/14684…
+Credit to all the posters in this thread which contains much more info: http://apple.stackexchange.com/questions/146849/how-do-i-recompile-bash-to-avoid-shellshock-the-remote-exploit-cve-2014-6271-an
